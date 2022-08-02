@@ -3,7 +3,8 @@
     "short_name": "Boocasino",
     "description": "Boocasino - Top Rated Casino",
     "lang": "en-GB",
-    "start_url": "https://boocasino.com",
+    "start_url": "/",
+    "scope": "https://boocasino.com/"
     "display": "standalone",
     "theme_color": "#E6E6FA",
     "background_color": "#E6E6FA",
