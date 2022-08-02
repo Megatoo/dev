@@ -6,7 +6,7 @@ const includeToCache = [
   '/images/logo.svg',
   '/images/logo-black.svg',
   '/css/styles.css',
-  '/js/main.js'
+  'main.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
