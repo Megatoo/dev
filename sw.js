@@ -1,7 +1,7 @@
 const cacheName = 'pwa_v1';
 const includeToCache = [
   '/',
-  '/index.html',
+  'https://boocasino.com',
   '/images/favicon.ico',
   '/images/logo.svg',
   '/images/logo-black.svg',
