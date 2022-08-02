@@ -1,6 +1,6 @@
 {
-  "name": "Progressive Web Apps",
-  "short_name": "PWA",
+  "name": "Boocasino Web App",
+  "short_name": "Boocasino",
   "icons": [
     {
       "src": "images/mstile-70x70.png",
@@ -39,7 +39,7 @@
     }
   ],
   "lang": "en-US",
-  "start_url": "https://maddevs.io",
+  "start_url": "https://boocasino.com",
   "display": "standalone",
   "background_color": "black",
   "theme_color": "black"
